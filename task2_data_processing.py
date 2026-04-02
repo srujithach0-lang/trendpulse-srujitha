@@ -20,5 +20,5 @@ def task_2_clean(json_input):
 if __name__ == "__main__":
     # Example input json file from task1
     import glob
-    latest_json = max(glob.glob("data/trends_*.json()"))
+    latest_json = max(glob.glob("data/trends_*.json"))
     task_2_clean(latest_json)
