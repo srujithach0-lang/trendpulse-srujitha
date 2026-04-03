@@ -1,101 +1,103 @@
 post_id,title,category,score,num_comments,author,collected_at
-47612724,Lemonade by AMD: a fast and open source local LLM server using GPU and NPU,technology,198,53,AbuAssar,2002-04-26 08:56:21
-47611921,Significant Raise of Reports,technology,133,68,stratos123,2002-04-26 08:56:24
-47612558,Enabling Codex to Analyze Two Decades of Hacker News Data,technology,43,16,ronfriedhaber,2002-04-26 08:56:28
-47609694,Email obfuscation: What works in 2026?,technology,250,74,jaden,2002-04-26 08:56:29
-47612775,The SpaceX IPO: retail investor notes,technology,29,10,u1hcw9nx,2002-04-26 08:56:31
-47596739,Mercor says it was hit by cyberattack tied to compromise LiteLLM,technology,105,31,jackson-mcd,2002-04-26 08:56:33
-47588103,"On the trail of ancient art, deep in the Sahara",technology,5,1,bookofjoe,2002-04-26 08:56:38
-47603737,AI for American-produced cement and concrete,technology,208,115,latchkey,2002-04-26 08:57:00
-47605677,Signing data structures the wrong way,technology,113,50,malgorithms,2002-04-26 08:57:11
-47557385,The revenge of the data scientist,technology,160,33,hamelsmu,2002-04-26 08:57:13
-47610245,Things I Think I Think... Preferring Local OSS LLMs,technology,21,4,zdw,2002-04-26 08:57:18
-47614638,"Nvidia rolls out its fix for PC gaming's ""compiling shaders"" wait times",technology,6,1,Brajeshwar,2002-04-26 08:57:24
-47571183,Show HN: CLI to order groceries via reverse-engineered REWE API (Haskell),technology,193,80,wazHFsRy,2002-04-26 08:57:39
-47599510,"Random numbers, Persian code: A mysterious signal transfixes radio sleuths",technology,121,116,thinkingemote,2002-04-26 08:57:41
-47611455,What Exoskeleton Technology Learned from One User,technology,5,0,rbanffy,2002-04-26 08:57:45
-47609294,The Claude Code Leak,technology,179,159,mergesort,2002-04-26 08:57:48
-47565307,Windows 95 defenses against installers that overwrite a file with an older one,technology,158,86,michelangelo,2002-04-26 08:57:52
-47592755,OpenAI closes funding round at an $852B valuation,technology,520,486,surprisetalk,2002-04-26 08:57:59
-47558733,From 300KB to 69KB per Token: How LLM Architectures Solve the KV Cache Problem,technology,155,11,future-shock-ai,2002-04-26 08:58:08
-47565350,An Introduction to Writing Systems and Unicode,technology,63,13,mariuz,2002-04-26 08:58:09
-47609425,Show HN: We open-sourced our content writing workflow as a Claude Code skill,technology,12,6,arximughal,2002-04-26 08:58:25
-47593634,Ordinary Lab Gloves May Have Skewed Microplastic Data,technology,136,52,WaitWaitWha,2002-04-26 08:58:28
-47608155,"ZomboCom stolen by a hacker, sold, now replaced with AI-generated makeover",technology,71,34,bananaboy,2002-04-26 08:58:31
-47584795,Why the US Navy won't blast the Iranians and 'open' Strait of Hormuz,technology,453,1395,KoftaBob,2002-04-26 08:58:38
-47610534,"Vitalik Buterin – ""My self-sovereign / local / private / secure LLM setup""",technology,9,0,derrida,2002-04-26 08:58:39
-47615002,Qwen3.6-Plus: Towards Real World Agents,worldnews,71,31,pretext,2002-04-26 08:58:45
-47596739,Mercor says it was hit by cyberattack tied to compromise LiteLLM,worldnews,105,31,jackson-mcd,2002-04-26 08:59:08
-47612035,UK Government unveils rules to end subscription traps,worldnews,17,4,_____k,2002-04-26 09:00:59
-47541746,Show HN: Forkrun – NUMA-aware shell parallelizer (50×–400× faster than parallel),worldnews,146,41,jkool702,2002-04-26 09:01:45
-47577761,Fedware: Government apps that spy harder than the apps they ban,worldnews,678,277,speckx,2002-04-26 09:02:16
-47601310,"Iran war sparks renewables boom as Europeans rush to buy solar, heat pumps, EVs",worldnews,83,108,vrganj,2002-04-26 09:02:38
-47606909,Cindy Cohn of the EFF Interviewed by Jon Stewart on the Daily Show [video],worldnews,34,1,latexr,2002-04-26 09:03:07
-47610604,Qwen3.6-Plus: Towards Real World Agents,worldnews,20,4,meetpateltech,2002-04-26 09:03:40
-47608080,Show HN: 65k AI voters predict UK local elections with 75% accuracy,worldnews,7,9,JasonDuke,2002-04-26 09:03:44
-47578572,Turning a MacBook into a touchscreen with $1 of hardware (2018),worldnews,406,229,HughParry,2002-04-26 09:03:47
-47585008,"7,655 Ransomware Claims in One Year: Group, Sector, and Country Breakdown",worldnews,61,14,adulion,2002-04-26 09:04:51
-47557299,Hardware Image Compression,worldnews,72,15,luu,2002-04-26 09:05:21
-47592113,"Jami – free/libre, end-to-end encrypted, and private communication software",worldnews,43,3,smartmic,2002-04-26 09:05:45
-47608790,The Longest-Running Vaporware Project in the History of Computing,worldnews,12,2,YounesDz,2002-04-26 09:06:15
-47609700,The Trajectory of the Iran War: Will Jiang Xueqin's Third Prediction Come True?,worldnews,5,1,salkahfi,2002-04-26 09:06:20
-47540833,Hold on to Your Hardware,worldnews,661,533,LucidLynx,2002-04-26 09:07:35
-47590261,Ask HN: Academic study on AI's impact on software development – want to join?,worldnews,30,15,research2026,2002-04-26 09:07:47
-47590194,The one-line config that blocks most smash-and-grab supply chain attacks,worldnews,5,0,DaniAkash,2002-04-26 09:07:54
-47568028,Coding agents could make free software matter again,worldnews,269,305,rogueleaderr,2002-04-26 09:08:14
-47590153,Facial Recognition Errors Affect Millions Globally,worldnews,6,0,pseudolus,2002-04-26 09:09:00
-47595721,Iran's Revolutionary Guards Declares War on Silicon Valley,worldnews,18,12,mikelgan,2002-04-26 09:10:04
-47609564,Steam on Linux Use Skyrocketed Above 5% in March,sports,594,274,hkmaxpro,2002-04-26 09:11:38
-47602986,Show HN: Real-time dashboard for Claude Code agent teams,sports,72,23,simple10,2002-04-26 09:14:08
-47562342,Digitizing photos from the 1998 Game Boy Camera,sports,68,15,rockbruno,2002-04-26 09:15:21
-47607775,"""Special 301"" Comments on Nintendo Game Piracy in Asia and Latin America (1994)",sports,7,0,Lammy,2002-04-26 09:16:34
-47575403,CodingFont: A game to help you pick a coding font,sports,490,236,nvahalik,2002-04-26 09:17:44
-47556033,rpg.actor Game Jam,sports,80,6,Kye,2002-04-26 09:22:29
-47604289,TinyCard Text Game Maker,sports,4,5,chrisjj,2002-04-26 09:24:04
-47612775,The SpaceX IPO: retail investor notes,science,45,31,u1hcw9nx,2002-04-26 09:24:39
-47604155,SpaceX files to go public,science,353,517,nutjob2,2002-04-26 09:25:29
-47607394,SolveSpace (open source 2D/3D CAD) working on Windows 2000 (2025),science,34,6,ruevs,2002-04-26 09:26:05
-47572878,How-to guide: Commissioning a Sensor Physics R&D Lab,science,40,4,MagneLauritzen,2002-04-26 09:26:31
-47609725,Show HN: NASA Artemis II Mission Timeline Tracker,science,85,14,AustinDev,2002-04-26 09:26:36
-47609883,"Salomi, a research repo on extreme low-bit transformer quantization",science,11,3,Edward9055,2002-04-26 09:27:06
-47588349,GitHub Monaspace Case Study,science,145,48,homebrewer,2002-04-26 09:27:51
-47578086,Vulnerability research is cooked,science,253,168,pedro84,2002-04-26 09:28:12
-47586614,Open source CAD in the browser (Solvespace),science,369,125,phkahler,2002-04-26 09:28:13
-47548164,"Researchers find 3,500-year-old loom that reveals textile revolution",science,132,19,geox,2002-04-26 09:29:17
-47585860,"In Expanding de Sitter Space, Quantum Mechanics Gets More Elusive",science,32,2,pseudolus,2002-04-26 09:31:44
-47564579,The rise and fall of IBM's 4 Pi aerospace computers: an illustrated history,science,100,25,zdw,2002-04-26 09:32:08
-47598415,A million new SpaceX satellites will destroy the night sky,science,48,39,01-_-,2002-04-26 09:32:20
-47570650,Stanford study reveals AI vision models invent images they never see,science,45,0,LionTurtle13,2002-04-26 09:33:14
-47605132,"SpaceX files for IPO, targets $1.75T valuation",science,11,2,AndrewDucker,2002-04-26 09:33:18
-47590261,Ask HN: Academic study on AI's impact on software development – want to join?,science,30,15,research2026,2002-04-26 09:34:17
-47608182,"Some of the most popular graduate degrees don't pay off financially, study finds",science,4,3,bookofjoe,2002-04-26 09:35:07
-47593303,Cisco source code stolen in Trivy-linked dev environment breach,science,27,0,_____k,2002-04-26 09:35:09
-47546911,Capability-Based Security for Redox: Namespace and CWD as Capabilities,science,65,9,ejplatzer,2002-04-26 09:35:42
-47592280,Show HN: Multi-agent autoresearch for ANE inference beats Apple's CoreML by 6×,science,6,0,christinetyip,2002-04-26 09:35:59
-47605235,NASA's Artemis II Crew Launches to the Moon (Official Broadcast) [video],science,5,1,twalichiewicz,2002-04-26 09:36:14
-47603696,Pesticides and cancer: researchers find a connection at the national level,science,6,1,MrDresden,2002-04-26 09:36:43
-47612601,"Sweden goes back to basics, swapping screens for books in the classroom",entertainment,462,233,novaRom,2002-04-26 09:36:51
-47612321,Show HN: I built a DNS resolver from scratch in Rust – no DNS libraries,entertainment,57,34,rdme,2002-04-26 09:37:05
-47557921,Show HN: Git bayesect – Bayesian Git bisection for non-deterministic bugs,entertainment,316,43,hauntsaninja,2002-04-26 09:37:23
-47613156,ReactOS Shows Improved Stability and 64-Bit Support at Chemnitz Linux Days 2026,entertainment,49,18,jeditobe,2002-04-26 09:37:25
-47612277,Almighty Lisp: Lisp and Emacs Essentials Book,entertainment,15,1,nemoniac,2002-04-26 09:37:30
-47606560,"Show HN: Dull – Instagram Without Reels, YouTube Without Shorts (iOS)",entertainment,121,105,kasparnoor,2002-04-26 09:37:32
-47571183,Show HN: CLI to order groceries via reverse-engineered REWE API (Haskell),entertainment,193,80,wazHFsRy,2002-04-26 09:38:01
-47603966,Show HN: Flight-Viz – 10K flights on a 3D globe in 3.5MB of Rust+WASM,entertainment,79,40,coolwulf,2002-04-26 09:38:12
-47574871,"Show HN: Zerobox – Sandbox any command with file, network, credential controls",entertainment,126,89,afshinmeh,2002-04-26 09:38:21
-47609725,Show HN: NASA Artemis II Mission Timeline Tracker,entertainment,85,14,AustinDev,2002-04-26 09:38:32
-47589856,Show HN: Postgres extension for BM25 relevance-ranked full-text search,entertainment,193,57,tjgreen,2002-04-26 09:38:47
-47609425,Show HN: We open-sourced our content writing workflow as a Claude Code skill,entertainment,12,7,arximughal,2002-04-26 09:38:48
-47609372,"Show HN: Semantic atlas of 188 constitutions in 3D (30k articles, embeddings)",entertainment,10,3,joaoli131,2002-04-26 09:38:51
-47593422,"Show HN: 1-Bit Bonsai, the First Commercially Viable 1-Bit LLMs",entertainment,411,151,PrismML,2002-04-26 09:38:59
-47541746,Show HN: Forkrun – NUMA-aware shell parallelizer (50×–400× faster than parallel),entertainment,146,41,jkool702,2002-04-26 09:39:06
-47575061,"Show HN: QWERTY mini Pro – Why a 2-row, 16-key keyboard works better",entertainment,8,6,QWERTYmini,2002-04-26 09:39:08
-47602986,Show HN: Real-time dashboard for Claude Code agent teams,entertainment,72,23,simple10,2002-04-26 09:39:16
-47594804,Show HN: Claude Code rewritten as a bash script,entertainment,51,14,rpst,2002-04-26 09:40:03
-47562342,Digitizing photos from the 1998 Game Boy Camera,entertainment,68,15,rockbruno,2002-04-26 09:40:05
-47599956,Show HN: Sycamore – next gen Rust web UI library using fine-grained reactivity,entertainment,94,75,lukechu10,2002-04-26 09:40:14
-47606909,Cindy Cohn of the EFF Interviewed by Jon Stewart on the Daily Show [video],entertainment,34,1,latexr,2002-04-26 09:40:23
-47608059,43 hours battery life: Dell XPS 14 2026 lasts almost 3x longer vs MacBook Air 15,entertainment,27,9,akyuu,2002-04-26 09:40:28
-47555035,"Show HN: Loreline, narrative language transpiled via Haxe: C++/C#/JS/Java/Py/Lua",entertainment,71,20,jeremyfa,2002-04-26 09:40:38
-47566143,My MacBook keyboard is broken and it's insanely expensive to fix,entertainment,381,533,TobiasBerg,2002-04-26 09:40:46
-47608080,Show HN: 65k AI voters predict UK local elections with 75% accuracy,entertainment,7,9,JasonDuke,2002-04-26 09:40:47
+47624645,Show HN: Apfel – The free AI already on your Mac,technology,138,20,franze,2003-04-26 05:34:31
+47561426,What Category Theory Teaches Us About DataFrames,technology,36,3,mchav,2003-04-26 05:34:37
+47562455,The True Shape of Io's Steeple Mountain,technology,65,1,carlosjobim,2003-04-26 05:34:39
+47618189,Tailscale's new macOS home,technology,482,235,tosh,2003-04-26 05:34:40
+47617415,Good ideas do not need lots of lies in order to gain public acceptance (2008),technology,277,120,sedev,2003-04-26 05:34:44
+47624317,New Rowhammer attacks give complete control of machines running Nvidia GPUs,technology,56,4,01-_-,2003-04-26 05:34:47
+47573728,Intel Assured Supply Chain Product Brief,technology,4,1,aw-engineer,2003-04-26 05:34:54
+47620857,ParadeDB (YC S23) Is Hiring Database Internal Engineers (Rust),technology,1,0,philippemnoel,2003-04-26 05:35:00
+47617376,OpenAI Acquires TBPN,technology,215,177,surprisetalk,2003-04-26 05:35:02
+47620933,Memo: A language that remembers only the last 12 lines of code,technology,52,28,notem,2003-04-26 05:35:08
+47612724,Lemonade by AMD: a fast and open source local LLM server using GPU and NPU,technology,522,110,AbuAssar,2003-04-26 05:35:09
+47623101,A Rave Review of Superpowers (For Claude Code),technology,28,17,emschwartz,2003-04-26 05:35:11
+47596739,Mercor says it was hit by cyberattack tied to compromise LiteLLM,technology,144,45,jackson-mcd,2003-04-26 05:35:19
+47611921,Significant raise of reports,technology,295,151,stratos123,2003-04-26 05:35:29
+47621792,Post Mortem: axios NPM supply chain compromise,technology,98,61,Kyro38,2003-04-26 05:35:31
+47615876,The case for zero-error horizons in trustworthy LLMs,technology,73,102,daigoba66,2003-04-26 05:35:36
+47612558,Enabling Codex to Analyze Two Decades of Hacker News Data,technology,80,30,ronfriedhaber,2003-04-26 05:35:39
+47620039,"Reporting potholes with an ESP32, LoRA, and AI",technology,19,0,flakespancakes,2003-04-26 05:35:41
+47617217,Show HN: I tested 15 free AI models at building real software on a $25/year VPS,technology,26,3,j0rg3,2003-04-26 05:35:51
+47609694,Email obfuscation: What works in 2026?,technology,353,99,jaden,2003-04-26 05:35:52
+47557385,The revenge of the data scientist,technology,170,37,hamelsmu,2003-04-26 05:35:56
+47623053,"Show HN: Minimal Brain Teaser Web Game (Handcrafted, No AI)",technology,9,5,arttaboi,2003-04-26 05:35:57
+47624580,AI's fluency in other languages hides a Western worldview that can mislead users,technology,8,0,1659447091,2003-04-26 05:36:02
+47610245,Things I Think I Think... Preferring Local OSS LLMs,technology,43,9,zdw,2003-04-26 05:36:07
+47621937,Show HN: A Minimal Basic Inspired by Brainfuck,technology,6,0,ADavison2560,2003-04-26 05:36:09
+47615002,Qwen3.6-Plus: Towards real world agents,worldnews,544,187,pretext,2003-04-26 05:36:25
+47624317,New Rowhammer attacks give complete control of machines running Nvidia GPUs,worldnews,58,4,01-_-,2003-04-26 05:36:30
+47596739,Mercor says it was hit by cyberattack tied to compromise LiteLLM,worldnews,144,45,jackson-mcd,2003-04-26 05:37:14
+47615756,Renewables reached nearly 50% of global electricity capacity last year,worldnews,274,132,Growtika,2003-04-26 05:37:22
+47618221,The Australian government has announced gambling advertising reforms,worldnews,122,91,gostsamo,2003-04-26 05:38:10
+47617217,Show HN: I tested 15 free AI models at building real software on a $25/year VPS,worldnews,26,3,j0rg3,2003-04-26 05:38:12
+47620426,Amazon data center in Bahrain attacked by Iranian Revolutionary Guards,worldnews,24,3,topherPedersen,2003-04-26 05:41:18
+47541746,Show HN: Forkrun – NUMA-aware shell parallelizer (50×–400× faster than parallel),worldnews,149,41,jkool702,2003-04-26 05:41:28
+47577761,Fedware: Government apps that spy harder than the apps they ban,worldnews,680,278,speckx,2003-04-26 05:41:45
+47617630,"Show HN: Mac-hardware toys, control your Mac's hardware like a modular synth",worldnews,3,1,nikisweeting,2003-04-26 05:43:11
+47613668,Show HN: Abject: the first self-aware object runtime,worldnews,9,2,mempko,2003-04-26 05:43:31
+47578572,Turning a MacBook into a touchscreen with $1 of hardware (2018),worldnews,407,230,HughParry,2003-04-26 05:44:30
+47615058,Old code never dies: why legacy software is often safer than new code,worldnews,4,0,speckx,2003-04-26 05:44:37
+47601310,"Iran war sparks renewables boom as Europeans rush to buy solar, heat pumps, EVs",worldnews,85,116,vrganj,2003-04-26 05:45:18
+47620400,Iran attacks Oracle data center in Dubai,worldnews,12,5,topherPedersen,2003-04-26 05:45:30
+47612035,UK Government unveils rules to end subscription traps,worldnews,25,6,_____k,2003-04-26 05:46:13
+47585008,"7,655 Ransomware Claims in One Year: Group, Sector, and Country Breakdown",worldnews,61,14,adulion,2003-04-26 05:46:18
+47557299,Hardware Image Compression,worldnews,73,15,luu,2003-04-26 05:46:27
+47606909,Cindy Cohn of the EFF Interviewed by Jon Stewart on the Daily Show [video],worldnews,35,1,latexr,2003-04-26 05:46:40
+47592113,"Jami – free/libre, end-to-end encrypted, and private communication software",worldnews,43,3,smartmic,2003-04-26 05:48:00
+47608080,Show HN: 65k AI voters predict UK local elections with 75% accuracy,worldnews,7,9,JasonDuke,2003-04-26 05:48:05
+47540833,Hold on to Your Hardware,worldnews,661,533,LucidLynx,2003-04-26 05:48:17
+47618779,New Rowhammer attacks give complete control of machines running Nvidia GPUs,worldnews,7,1,int0x29,2003-04-26 05:48:34
+47568028,Coding agents could make free software matter again,worldnews,269,306,rogueleaderr,2003-04-26 05:49:40
+47590261,Ask HN: Academic study on AI's impact on software development – want to join?,worldnews,30,15,research2026,2003-04-26 05:50:53
+47609564,Steam on Linux Use Skyrocketed Above 5% in March,sports,743,348,hkmaxpro,2003-04-26 05:52:33
+47623053,"Show HN: Minimal Brain Teaser Web Game (Handcrafted, No AI)",sports,9,5,arttaboi,2003-04-26 05:53:32
+47620867,Proton Workspace: An encrypted suite for team collaboration,sports,25,3,teekert,2003-04-26 05:56:34
+47602986,Show HN: Real-time dashboard for Claude Code agent teams,sports,73,25,simple10,2003-04-26 05:58:04
+47562342,Digitizing photos from the 1998 Game Boy Camera,sports,68,15,rockbruno,2003-04-26 05:58:10
+47575403,CodingFont: A game to help you pick a coding font,sports,491,236,nvahalik,2003-04-26 06:00:26
+47607775,"""Special 301"" Comments on Nintendo Game Piracy in Asia and Latin America (1994)",sports,7,0,Lammy,2003-04-26 06:02:53
+47556033,rpg.actor Game Jam,sports,80,6,Kye,2003-04-26 06:05:15
+47624879,Switzerland hosts 'CERN of semiconductor research',science,25,5,teleforce,2003-04-26 06:06:32
+47604155,SpaceX files to go public,science,392,563,nutjob2,2003-04-26 06:08:32
+47607394,SolveSpace (open source 2D/3D CAD) working on Windows 2000 (2025),science,39,6,ruevs,2003-04-26 06:10:03
+47578086,Vulnerability research is cooked,science,255,168,pedro84,2003-04-26 06:11:01
+47572878,How-to guide: Commissioning a Sensor Physics R&D Lab,science,41,4,MagneLauritzen,2003-04-26 06:11:18
+47620867,Proton Workspace: An encrypted suite for team collaboration,science,25,3,teekert,2003-04-26 06:11:25
+47588349,GitHub Monaspace Case Study,science,146,49,homebrewer,2003-04-26 06:11:35
+47586614,Open source CAD in the browser (Solvespace),science,369,125,phkahler,2003-04-26 06:11:41
+47620442,NASA: Artemis II Real time tracking with multiple views,science,10,0,ColinWright,2003-04-26 06:13:03
+47548164,"Researchers find 3,500-year-old loom that reveals textile revolution",science,132,20,geox,2003-04-26 06:13:05
+47609883,"Salomi, a research repo on extreme low-bit transformer quantization",science,12,4,Edward9055,2003-04-26 06:14:05
+47609725,Show HN: NASA Artemis II Mission Timeline Tracker,science,92,16,AustinDev,2003-04-26 06:14:48
+47564579,The rise and fall of IBM's 4 Pi aerospace computers: an illustrated history,science,100,25,zdw,2003-04-26 06:16:14
+47612775,The SpaceX IPO: retail investor notes,science,94,93,u1hcw9nx,2003-04-26 06:16:34
+47617027,A forecast of the fair market value of SpaceX's businesses,science,98,193,ddp26,2003-04-26 06:16:41
+47585860,"In Expanding de Sitter Space, Quantum Mechanics Gets More Elusive",science,32,2,pseudolus,2003-04-26 06:16:52
+47570650,Stanford study reveals AI vision models invent images they never see,science,45,0,LionTurtle13,2003-04-26 06:18:19
+47546911,Capability-Based Security for Redox: Namespace and CWD as Capabilities,science,65,9,ejplatzer,2003-04-26 06:20:43
+47590261,Ask HN: Academic study on AI's impact on software development – want to join?,science,30,15,research2026,2003-04-26 06:20:48
+47624741,"Show HN: European alternatives to Google, Apple, Dropbox and 120 US apps",entertainment,321,130,madman_dev,2003-04-26 06:20:58
+47560959,Show HN: Home Maker: Declare Your Dev Tools in a Makefile,entertainment,81,46,sthottingal,2003-04-26 07:53:49
+47625385,"H.264 Streaming Fees: What Changed, Who's Affected, and What It Means",entertainment,54,31,phantomathkg,2003-04-26 07:53:51
+47621438,Show HN: Made a little Artemis II tracker,entertainment,124,50,codingmoh,2003-04-26 07:54:17
+47612601,"Sweden goes back to basics, swapping screens for books in the classroom",entertainment,873,414,novaRom,2003-04-26 07:54:18
+47615844,Show HN: A P2P messenger with dual network modes (Fast and Tor),entertainment,34,21,Realman78,2003-04-26 07:55:00
+47612321,Show HN: I built a DNS resolver from scratch in Rust – no DNS libraries,entertainment,102,62,rdme,2003-04-26 07:55:12
+47606560,"Show HN: Dull – Instagram Without Reels, YouTube Without Shorts (iOS)",entertainment,144,111,kasparnoor,2003-04-26 07:55:21
+47618247,Show HN: SyNumpy – a Header only C++17 library for working with NumPy Arrays,entertainment,18,3,symisc_devel,2003-04-26 07:55:27
+47617217,Show HN: I tested 15 free AI models at building real software on a $25/year VPS,entertainment,28,4,j0rg3,2003-04-26 07:55:31
+47623053,"Show HN: Minimal Brain Teaser Web Game (Handcrafted, No AI)",entertainment,12,6,arttaboi,2003-04-26 07:55:38
+47612277,Almighty Lisp: Lisp and Emacs Essentials Book,entertainment,63,4,nemoniac,2003-04-26 07:55:45
+47621937,Show HN: A Minimal Basic Inspired by Brainfuck,entertainment,7,0,ADavison2560,2003-04-26 07:55:55
+47571183,Show HN: CLI to order groceries via reverse-engineered REWE API (Haskell),entertainment,200,83,wazHFsRy,2003-04-26 07:56:02
+47557921,Show HN: Git bayesect – Bayesian Git bisection for non-deterministic bugs,entertainment,333,44,hauntsaninja,2003-04-26 07:56:08
+47574871,"Show HN: Zerobox – Sandbox any command with file, network, credential controls",entertainment,138,92,afshinmeh,2003-04-26 07:56:47
+47589856,Show HN: Postgres extension for BM25 relevance-ranked full-text search,entertainment,200,57,tjgreen,2003-04-26 07:56:49
+47541746,Show HN: Forkrun – NUMA-aware shell parallelizer (50×–400× faster than parallel),entertainment,149,41,jkool702,2003-04-26 07:57:14
+47593422,"Show HN: 1-Bit Bonsai, the First Commercially Viable 1-Bit LLMs",entertainment,418,152,PrismML,2003-04-26 07:57:19
+47603966,Show HN: Flight-Viz – 10K flights on a 3D globe in 3.5MB of Rust+WASM,entertainment,84,45,coolwulf,2003-04-26 07:57:47
+47613156,ReactOS Shows Improved Stability and 64-Bit Support at Chemnitz Linux Days 2026,entertainment,68,25,jeditobe,2003-04-26 07:57:54
+47622264,"Why OpenAI Decided to Buy 'TBPN,' Tech's Hottest News Show",entertainment,7,0,mudil,2003-04-26 07:58:35
+47617630,"Show HN: Mac-hardware toys, control your Mac's hardware like a modular synth",entertainment,4,1,nikisweeting,2003-04-26 07:58:40
+47613668,Show HN: Abject: the first self-aware object runtime,entertainment,9,2,mempko,2003-04-26 07:58:58
+47594804,Show HN: Claude Code rewritten as a bash script,entertainment,52,17,rpst,2003-04-26 07:59:13
